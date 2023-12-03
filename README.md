@@ -34,6 +34,8 @@ In general, I've worked with monolithic, microservice and serverless architectur
            src="https://github-readme-stats.vercel.app/api?username=rpeter249&show_icons=true"&theme=transparent/></a>
    <a href="https://github.com/rpeter249/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpeter249&layout=compact"/></a>
+
+   [![Ruth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruthpeter249)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 
