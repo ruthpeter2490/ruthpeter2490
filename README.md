@@ -31,7 +31,10 @@ In general, I've worked with monolithic, microservice and serverless architectur
 </p>
 
 <p> Do check out my contributions on my School Repository! 
-   <a href = https://github.com/rpeter249/github-readme-stats> Ruth's School Repository </a>
+   <a href = https://github.com/rpeter249/github-readme-stats> Ruth's School Repository
+     <div id="github-widget" data-user="rpeter249" data-display="pop_repos,calendar"></div>
+ 
+   </a>
    <p>
 <p align='center'>
    <a href="https://www.linkedin.com/in/ruthpeter/">
@@ -46,6 +49,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
    For access to view any of my projects (they are kept private for academic integrity), feel free to reach out!
 </p>
 
+ <script src="https://gh-widget.oyanglul.us/index.js"></script>
 
 ### Key points
 * Add Key Points
