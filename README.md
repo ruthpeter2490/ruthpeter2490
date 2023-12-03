@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Roman 👋
+# Hi, I'm Ruth 👋
 A backend and cloud software engineer with more than 3 years of professional experience. I have excellent knowledge of backend Java development.
 In general, I've worked with monolithic, microservice and serverless architectures. 
 
@@ -30,7 +30,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
 <p align='center'>
    <a href="https://www.linkedin.com/in/ruthpeter/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>>
+   </a>
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:ruthpeter2490@gmail.com'>ruthpeter2490@gmail.com</a>
