@@ -21,7 +21,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&count_private=true&theme=transparent"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&theme=transparent"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&count_private=true&theme=transparent"/></a>
    <a href="https://github.com/ruthpeter2490/github-readme-stats"><img height=150
