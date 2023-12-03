@@ -30,21 +30,14 @@ In general, I've worked with monolithic, microservice and serverless architectur
    [![Ruth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruthpeter2490&theme=github-compact)](https://github.com/ruthpeter2490/github-readme-activity-graph)
 </p>
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=rpeter249&show_icons=true"&theme=transparent><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=rpeter249&show_icons=true"&theme=transparent/></a>
-   <a href="https://github.com/rpeter249/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpeter249&layout=compact"/></a>
-
-   [![Ruth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rpeter249&theme=github-compact)](https://github.com/rpeter249/github-readme-activity-graph)
-</p>
-
-
+<p> Do check out my contributions on my other repository! (School Repo) 
+   <a>https://github.com/rpeter249/github-readme-stats</a>
+   <p>
 <p align='center'>
    <a href="https://www.linkedin.com/in/ruthpeter/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
+</p>
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:ruthpeter2490@gmail.com'>ruthpeter2490@gmail.com</a>
