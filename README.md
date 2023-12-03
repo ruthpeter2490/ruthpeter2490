@@ -30,7 +30,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
    [![Ruth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruthpeter2490&theme=github-compact)](https://github.com/ruthpeter2490/github-readme-activity-graph)
 </p>
 
-<p> Do check out my contributions on my other repository! (School Repo) 
+<p> Do check out my contributions on my School Repository! 
    <a>https://github.com/rpeter249/github-readme-stats</a>
    <p>
 <p align='center'>
@@ -41,6 +41,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:ruthpeter2490@gmail.com'>ruthpeter2490@gmail.com</a>
+   For access to view any of my projects (they are kept private for academic integrity), feel free to reach out!
 </p>
 
 
