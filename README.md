@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 A backend and cloud software engineer with more than 3 years of professional experience. I have excellent knowledge of backend Java development.
 In general, I've worked with monolithic, microservice and serverless architectures. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&count_private=true&theme=transparent"><img
