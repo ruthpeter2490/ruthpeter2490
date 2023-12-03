@@ -32,7 +32,8 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 <p> Do check out my contributions on my School Repository! 
    <a href = https://github.com/rpeter249/github-readme-stats> Ruth's School Repository
-     <div id="github-widget" data-user="rpeter249" data-display="pop_repos,calendar"></div>
+     <a href = dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9/>
+
  
    </a>
    <p>
