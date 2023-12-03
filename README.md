@@ -19,18 +19,21 @@ Here are some ideas to get you started:
 A backend and cloud software engineer with more than 3 years of professional experience. I have excellent knowledge of backend Java development.
 In general, I've worked with monolithic, microservice and serverless architectures. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&count_private=true&theme=transparent"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&count_private=true&theme=transparent"/></a>
    <a href="https://github.com/ruthpeter2490/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthpeter2490&layout=compact"/></a>
 </p>
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=rpeter249&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=rpeter249&show_icons=true&count_private=true"&theme=transparent><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=rpeter249&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=rpeter249&show_icons=true&count_private=true"&theme=transparent/></a>
    <a href="https://github.com/rpeter249/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpeter249&layout=compact"/></a>
 </p>
