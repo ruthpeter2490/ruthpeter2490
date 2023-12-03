@@ -30,10 +30,9 @@ In general, I've worked with monolithic, microservice and serverless architectur
    [![Ruth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruthpeter2490&theme=github-compact)](https://github.com/ruthpeter2490/github-readme-activity-graph)
 </p>
 
-<p> Do check out my contributions on my School Repository! 
+<p> Do check out my contributions on my School Repository! github-contribution-grid-snake.svg
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthpeter2490/ruthpeter2490/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruthpeter2490/ruthpeter2490/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthpeter2490/ruthpeter2490/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ruthpeter2490/ruthpeter2490/output/github-contribution-grid-snake.svg">
 </picture>
 
