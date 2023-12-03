@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Roman 👋
+A backend and cloud software engineer with more than 3 years of professional experience. I have excellent knowledge of backend Java development.
+In general, I've worked with monolithic, microservice and serverless architectures. 
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/ruthpeter2490/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthpeter2490&layout=compact"/></a>
+</p>
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/ruthpeter/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>>
+
+<p align='center'>
+   📫 How to reach me: <a href='mailto:ruthpeter2490@gmail.com'>ruthpeter2490@gmail.com</a>
+</p>
+
+
+### Key points
+* Add Key Points
+
+## 🛠 Technology Stack
+* hello
