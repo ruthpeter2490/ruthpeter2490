@@ -41,6 +41,8 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:ruthpeter2490@gmail.com'>ruthpeter2490@gmail.com</a>
+</p>
+<p>
    For access to view any of my projects (they are kept private for academic integrity), feel free to reach out!
 </p>
 
