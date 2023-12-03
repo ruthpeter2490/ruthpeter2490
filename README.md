@@ -31,11 +31,11 @@ In general, I've worked with monolithic, microservice and serverless architectur
 </p>
 
 <p> Do check out my contributions on my School Repository! 
-   <a href = https://github.com/rpeter249/github-readme-stats> Ruth's School Repository
-     <a href = dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9/>
-
- 
-   </a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
    <p>
 <p align='center'>
    <a href="https://www.linkedin.com/in/ruthpeter/">
