@@ -28,7 +28,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthpeter2490&count_private=true&layout=compact&theme=transparent"/></a>
 
 </p>
- <p>
+ <p align='center'>
         <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/ruthpeter2490/ruthpeter2490/output/github-contribution-grid-snake.svg](https://github.com/ruthpeter2490/ruthpeter2490/blob/output/github-snake-dark.svg)">
   <img alt="github contribution grid snake animation" src="https://github.com/ruthpeter2490/ruthpeter2490/blob/output/github-snake-dark.svg">
@@ -47,14 +47,19 @@ In general, I've worked with monolithic, microservice and serverless architectur
 <p align='center'>
    📫 How to reach me: <a href='mailto:ruthpeter2490@gmail.com'>ruthpeter2490@gmail.com</a>
 </p>
-<p>
+<p align='center'>
    For access to view any of my projects (they are kept private for academic integrity), feel free to reach out!
 </p>
 
- <script src="https://gh-widget.oyanglul.us/index.js"></script>
 
 ### Key points
 * Add Key Points
 
 ## 🛠 Technology Stack
-* hello
+*	Languages: Java (Spring Boot, Swing, AWS SDK v2), Python (FastAPI, SQLAlchemy, Pandas, MatplotLib, Scrapy, Altair), Scala
+*	Data Management: Oracle SQL, MySQL, SQL Server, MongoDB NoSQL, Neo4j, HBase, Spark, Apache Kafka, Apache Samza
+*	Container Orchestration and Deployment Tools: Docker, Terraform, Helm Charts, Jenkins, Ansible
+*	Cloud Platforms: AWS (EC2, ALB, ELB, ASG, S3, ECR, EMR, ECS, EKS), GCP (GKE, GCR, VertexAI, GAE), Azure (Databricks, HDInsight, Azure VM, ACR, ARM, ACI, Keyvault, Functions, App Service, API Management, Redis, DevOps)
+*	Web Development: Spring Boot, HTML, CSS, JavaScript, ExpressJS, NodeJS
+![image](https://github.com/ruthpeter2490/ruthpeter2490/assets/37671134/6aac016f-020e-4ac8-ab90-6009853ff58c)
+
