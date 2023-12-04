@@ -27,16 +27,17 @@ In general, I've worked with monolithic, microservice and serverless architectur
    <a href="https://github.com/ruthpeter2490/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthpeter2490&layout=compact"/></a>
 
-   [![Ruth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruthpeter2490&theme=github-compact)](https://github.com/ruthpeter2490/github-readme-activity-graph)
 </p>
-
-<p> Do check out my contributions on my School Repository! github-contribution-grid-snake.svg
-  <picture>
+ <p>
+        <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/ruthpeter2490/ruthpeter2490/output/github-contribution-grid-snake.svg](https://github.com/ruthpeter2490/ruthpeter2490/blob/output/github-snake-dark.svg)">
   <img alt="github contribution grid snake animation" src="https://github.com/ruthpeter2490/ruthpeter2490/blob/output/github-snake-dark.svg">
 </picture>
-
+   </p>
    <p>
+
+<p> <a href="https://github.com/rpeter249" >Do check out my contributions on my School Repository!</a> </p>
+  
 <p align='center'>
    <a href="https://www.linkedin.com/in/ruthpeter/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
