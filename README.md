@@ -55,11 +55,40 @@ In general, I've worked with monolithic, microservice and serverless architectur
 ### Key points
 * Add Key Points
 
-## 🛠 Technology Stack
-*	Languages: Java (Spring Boot, Swing, AWS SDK v2), Python (FastAPI, SQLAlchemy, Pandas, MatplotLib, Scrapy, Altair), Scala
-*	Data Management: Oracle SQL, MySQL, SQL Server, MongoDB NoSQL, Neo4j, HBase, Spark, Apache Kafka, Apache Samza
-*	Container Orchestration and Deployment Tools: Docker, Terraform, Helm Charts, Jenkins, Ansible
-*	Cloud Platforms: AWS (EC2, ALB, ELB, ASG, S3, ECR, EMR, ECS, EKS), GCP (GKE, GCR, VertexAI, GAE), Azure (Databricks, HDInsight, Azure VM, ACR, ARM, ACI, Keyvault, Functions, App Service, API Management, Redis, DevOps)
-*	Web Development: Spring Boot, HTML, CSS, JavaScript, ExpressJS, NodeJS
-![image](https://github.com/ruthpeter2490/ruthpeter2490/assets/37671134/6aac016f-020e-4ac8-ab90-6009853ff58c)
+## 🛠️ Technology Stack
 
+### Languages
+- Java (Spring Boot, Swing, AWS SDK v2)
+- Python (FastAPI, SQLAlchemy, Pandas, Matplotlib, Scrapy, Altair)
+- Scala
+
+### Data Management
+- Oracle SQL
+- MySQL
+- SQL Server
+- MongoDB (NoSQL)
+- Neo4j
+- HBase
+- Spark
+- Apache Kafka
+- Apache Samza
+
+### Container Orchestration and Deployment Tools
+- Docker
+- Terraform
+- Helm Charts
+- Jenkins
+- Ansible
+
+### Cloud Platforms
+- AWS (EC2, ALB, ELB, ASG, S3, ECR, EMR, ECS, EKS)
+- GCP (GKE, GCR, VertexAI, GAE)
+- Azure (Databricks, HDInsight, Azure VM, ACR, ARM, ACI, Keyvault, Functions, App Service, API Management, Redis, DevOps)
+
+### Web Development
+- Spring Boot
+- HTML
+- CSS
+- JavaScript
+- ExpressJS
+- NodeJS
