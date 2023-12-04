@@ -57,12 +57,12 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 ## 🛠️ Technology Stack
 
-### Languages
+### 🖥️ Languages
 - Java (Spring Boot, Swing, AWS SDK v2)
 - Python (FastAPI, SQLAlchemy, Pandas, Matplotlib, Scrapy, Altair)
 - Scala
 
-### Data Management
+### 🗄️ Data Management
 - Oracle SQL
 - MySQL
 - SQL Server
@@ -73,19 +73,19 @@ In general, I've worked with monolithic, microservice and serverless architectur
 - Apache Kafka
 - Apache Samza
 
-### Container Orchestration and Deployment Tools
+### 🐳 Container Orchestration and Deployment Tools
 - Docker
 - Terraform
 - Helm Charts
 - Jenkins
 - Ansible
 
-### Cloud Platforms
+### ☁️ Cloud Platforms
 - AWS (EC2, ALB, ELB, ASG, S3, ECR, EMR, ECS, EKS)
 - GCP (GKE, GCR, VertexAI, GAE)
 - Azure (Databricks, HDInsight, Azure VM, ACR, ARM, ACI, Keyvault, Functions, App Service, API Management, Redis, DevOps)
 
-### Web Development
+### 🌐 Web Development
 - Spring Boot
 - HTML
 - CSS
