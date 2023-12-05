@@ -91,10 +91,8 @@ In general, I've worked with monolithic, microservice and serverless architectur
 ## My Projects
 
 <div align="center">
-
 ### Project 1
 [![Project 1](https://via.placeholder.com/300)](https://github.com/ruthpeter2490/Jenkins-And-CI)
 Description or brief details about Project 1.
-
 </div>
 
