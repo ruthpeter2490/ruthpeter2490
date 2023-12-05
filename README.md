@@ -89,15 +89,25 @@ In general, I've worked with monolithic, microservice and serverless architectur
 - NodeJS
 
 ## My Projects
-
-## My Projects
-
-<div align="center">
-
-### Project 1
-
-[![Project 1](https://via.placeholder.com/300)](https://github.com/ruthpeter2490/Jenkins-And-CI)
-
-Description or brief details about Project 1.
-
-</div>
+These are private repositories, feel free to reach out for project access !
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Projects</b></td>
+      <td><b>⭐ Description</b></td>
+      <td><b>🛠️ Languages</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="[https://github.com/madushadhanushka/differ](https://github.com/ruthpeter2490/Jenkins-And-CI)"><b>Differ</b></a></td>
+      <td>Automated deployment using Jenkins and sonarqube for Continuous Integration</td>
+      <td>https://img.shields.io/badge/languages-Shell, dockerfile, groovy-blue </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
