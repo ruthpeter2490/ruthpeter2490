@@ -50,9 +50,6 @@ In general, I've worked with monolithic, microservice and serverless architectur
 </p>
 
 
-### Key points
-* Add Key Points
-
 ## 🛠️ Technology Stack
 
 ### 🖥️ Languages
@@ -90,6 +87,3 @@ In general, I've worked with monolithic, microservice and serverless architectur
 - JavaScript
 - ExpressJS
 - NodeJS
-
-
-[![ReadMe Card]
