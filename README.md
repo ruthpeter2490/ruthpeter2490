@@ -95,14 +95,14 @@ These are private repositories, feel free to reach out for project access !
     <tr border: none;>
       <td><b>📘 Projects</b></td>
       <td><b>⭐ Description</b></td>
-      <td><b>🛠️ Languages</b></td>
+      <td><b>🛠️ Technologies</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="[https://github.com/madushadhanushka/differ](https://github.com/ruthpeter2490/Jenkins-And-CI)"><b>Differ</b></a></td>
       <td>Automated deployment using Jenkins and sonarqube for Continuous Integration</td>
-      <td><img src=https://img.shields.io/badge/languages-Shell%20dockerfile%20groovy-blue\></td>
+      <td><img src=https://img.shields.io/badge/Shell-8A2BE2/><img src=https://img.shields.io/badge/Dockerfile-8A2BE2/><img src=https://img.shields.io/badge/groovy-8A2BE2/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
