@@ -102,7 +102,7 @@ These are private repositories, feel free to reach out for project access !
      <tr>
       <td><a href="https://github.com/ruthpeter2490/stream-processing-kafka-samza"><b>Ride App Stream Processing</b></a></td>
       <td>Stream processing for a ride share app using kafka and samza</td>
-      <td><img src=https://img.shields.io/badge/Java-8A2BE2/> <img src=https://img.shields.io/badge/Terraform-8A2BE2/></td>
+      <td><img src=https://img.shields.io/badge/Java-Red/> <img src=https://img.shields.io/badge/Terraform-8A2BE2/></td>
     </tr>
      <tr>
       <td><a href="https://github.com/ruthpeter2490/Iterative-Processing-With_Spark"><b>Spark Iterative processing</b></a></td>
@@ -119,10 +119,6 @@ These are private repositories, feel free to reach out for project access !
       <td>Automated deployment using Jenkins and sonarqube for Continuous Integration</td>
       <td><img src=https://img.shields.io/badge/Shell-8A2BE2/> <img src=https://img.shields.io/badge/Dockerfile-8A2BE2/> <img src=https://img.shields.io/badge/groovy-8A2BE2/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+   
   </tbody>
 </table>
