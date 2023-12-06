@@ -53,6 +53,9 @@ In general, I've worked with monolithic, microservice and serverless architectur
 ## 🛠️ Technology Stack
 
 ### 🖥️ Languages
+- <img src=https://img.shields.io/badge/Java-red> <img src=https://img.shields.io/badge/Java-Spring_Boot-red>
+- <img src=https://img.shields.io/badge/Python-red>
+- <img src=https://img.shields.io/badge/Scala-red>
 - Java (Spring Boot, Swing, AWS SDK v2)
 - Python (FastAPI, SQLAlchemy, Pandas, Matplotlib, Scrapy, Altair)
 - Scala
