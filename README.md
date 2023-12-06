@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 A backend and cloud software engineer with more than 3 years of professional experience. I have excellent knowledge of backend Java development.
 In general, I've worked with monolithic, microservice and serverless architectures. 
 
+- 🌱 I’m currently a graduate student at Carnegie Mellon University specializing in information Systems Management
+- 
+
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&theme=transparent"><img
@@ -65,11 +68,11 @@ In general, I've worked with monolithic, microservice and serverless architectur
 - <img src=https://img.shields.io/badge/BigData-Spark-green> <img src=https://img.shields.io/badge/BigData-Hadoop-green> <img src=https://img.shields.io/badge/BigData-Apache_Kafka-green> <img src=https://img.shields.io/badge/BigData-Apache_Samza-green>
 
 ### 🐳 Container Orchestration and Deployment Tools
-- Docker
-- Terraform
-- Helm Charts
-- Jenkins
-- Ansible
+- <img src=https://img.shields.io/badge/Docker-purple>
+- <img src=https://img.shields.io/badge/Terraform-purple>
+- <img src=https://img.shields.io/badge/Helm_Charts-purple>
+- <img src=https://img.shields.io/badge/Jenkins-purple>
+- <img src=https://img.shields.io/badge/Ansible-purple>
 
 ### ☁️ Cloud Platforms
 - <img src=https://img.shields.io/badge/AWS-EC2-blue> <img src=https://img.shields.io/badge/AWS-ALB_ELB-blue> <img src=https://img.shields.io/badge/AWS-ASG-blue> <img src=https://img.shields.io/badge/AWS-ECR-blue> <img src=https://img.shields.io/badge/AWS-EMR-blue> <img src=https://img.shields.io/badge/AWS-ECS-blue> <img src=https://img.shields.io/badge/AWS-EKS-blue> 
@@ -78,12 +81,9 @@ In general, I've worked with monolithic, microservice and serverless architectur
 - <img src=https://img.shields.io/badge/Kubernetes-Cluster_Management-blue> 
 
 ### 🌐 Web Development
-- Spring Boot
-- HTML
-- CSS
-- JavaScript
-- ExpressJS
-- NodeJS
+- <img src=https://img.shields.io/badge/REST_APIs-yellow> 
+- <img src=https://img.shields.io/badge/FrontEnd-HTML-yellow> <img src=https://img.shields.io/badge/FrontEnd-CSS-yellow> <img src=https://img.shields.io/badge/FrontEnd-JavaScript-yellow> 
+- <img src=https://img.shields.io/badge/backend-ExpressJS-yellow> <img src=https://img.shields.io/badge/backend-NodeJS-yellow> 
 
 ## My Projects
 These are private repositories, feel free to reach out for project access !
@@ -104,12 +104,12 @@ These are private repositories, feel free to reach out for project access !
      <tr>
       <td><a href="https://github.com/ruthpeter2490/Iterative-Processing-With_Spark"><b>Spark Iterative processing</b></a></td>
       <td>Implementing page rank using Scala RDDs</td>
-      <td><img src=https://img.shields.io/badge/Shell-purple> <img src=https://img.shields.io/badge/Scala-yellow> <img src=https://img.shields.io/badge/Spark-green></td>
+      <td><img src=https://img.shields.io/badge/Shell-purple> <img src=https://img.shields.io/badge/Scala-red> <img src=https://img.shields.io/badge/Spark-green></td>
     </tr>
       <tr>
       <td><a href="https://github.com/ruthpeter2490/docker-kubernetes-multicloud"><b>Multicloud deployment with Docker and Kubernetes</b></a></td>
       <td>Multi-cloud Microservices deployment using Docker and Kubernetes </td>
-      <td><img src=https://img.shields.io/badge/Java-red> <img src=https://img.shields.io/badge/Dockerfile-purple><img src=https://img.shields.io/badge/Terraform-purple><img src=https://img.shields.io/badge/Kubernetes-blue></td>
+      <td><img src=https://img.shields.io/badge/Java-red> <img src=https://img.shields.io/badge/Dockerfile-purple><img src=https://img.shields.io/badge/Terraform-purple> <img src=https://img.shields.io/badge/Kubernetes-blue></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ruthpeter2490/Jenkins-And-CI"><b>Jenkins and CI</b></a></td>
