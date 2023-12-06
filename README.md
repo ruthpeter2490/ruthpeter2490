@@ -79,6 +79,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
 - AWS (EC2, ALB, ELB, ASG, S3, ECR, EMR, ECS, EKS)
 - GCP (GKE, GCR, VertexAI, GAE)
 - Azure (Databricks, HDInsight, Azure VM, ACR, ARM, ACI, Keyvault, Functions, App Service, API Management, Redis, DevOps)
+- Kubernetes Cluster Management
 
 ### 🌐 Web Development
 - Spring Boot
@@ -102,17 +103,17 @@ These are private repositories, feel free to reach out for project access !
      <tr>
       <td><a href="https://github.com/ruthpeter2490/stream-processing-kafka-samza"><b>Ride App Stream Processing</b></a></td>
       <td>Stream processing for a ride share app using kafka and samza</td>
-      <td><img src=https://img.shields.io/badge/Java-red> <img src=https://img.shields.io/badge/Terraform-purple></td>
+      <td><img src=https://img.shields.io/badge/Java-red> <img src=https://img.shields.io/badge/Terraform-purple><img src=https://img.shields.io/badge/Kafka><img src=https://img.shields.io/badge/Samza></td>
     </tr>
      <tr>
       <td><a href="https://github.com/ruthpeter2490/Iterative-Processing-With_Spark"><b>Spark Iterative processing</b></a></td>
       <td>Implementing page rank using Scala RDDs</td>
-      <td><img src=https://img.shields.io/badge/Shell-purple> <img src=https://img.shields.io/badge/Scala-yellow></td>
+      <td><img src=https://img.shields.io/badge/Shell-purple> <img src=https://img.shields.io/badge/Scala-yellow><img src=https://img.shields.io/badge/Java-Spark></td>
     </tr>
       <tr>
       <td><a href="https://github.com/ruthpeter2490/docker-kubernetes-multicloud"><b>Multicloud deployment with Docker and Kubernetes</b></a></td>
       <td>Multi-cloud Microservices deployment using Docker and Kubernetes </td>
-      <td><img src=https://img.shields.io/badge/Java-red> <img src=https://img.shields.io/badge/Dockerfile-purple><img src=https://img.shields.io/badge/Terraform-purple></td>
+      <td><img src=https://img.shields.io/badge/Java-red> <img src=https://img.shields.io/badge/Dockerfile-purple><img src=https://img.shields.io/badge/Terraform-purple><img src=https://img.shields.io/badge/Kubernetes-blue></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ruthpeter2490/Jenkins-And-CI"><b>Jenkins and CI</b></a></td>
