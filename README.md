@@ -59,15 +59,10 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 
 ### 🗄️ Data Management
-- Oracle SQL
-- MySQL
-- SQL Server
-- MongoDB (NoSQL)
-- Neo4j
-- HBase
-- Spark
-- Apache Kafka
-- Apache Samza
+- <img src=https://img.shields.io/badge/SQL-Oracle_SQL-green> <img src=https://img.shields.io/badge/SQL-MySQL-green> <img src=https://img.shields.io/badge/SQL-SQL_Server-green>
+- <img src=https://img.shields.io/badge/NoSQL-MongoDB-green> <img src=https://img.shields.io/badge/NoSQL-HBase-green>
+- <img src=https://img.shields.io/badge/GraphSQL-Neo4j-green>
+- <img src=https://img.shields.io/badge/BigData-Spark-green> <img src=https://img.shields.io/badge/BigData-Hadoop-green> <img src=https://img.shields.io/badge/BigData-Apache_Kafka-green> <img src=https://img.shields.io/badge/BigData-Apache_Samza-green>
 
 ### 🐳 Container Orchestration and Deployment Tools
 - Docker
