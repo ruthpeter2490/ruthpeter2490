@@ -53,12 +53,10 @@ In general, I've worked with monolithic, microservice and serverless architectur
 ## 🛠️ Technology Stack
 
 ### 🖥️ Languages
-- <img src=https://img.shields.io/badge/Java-red> <img src=https://img.shields.io/badge/Java-Spring_Boot-red>
-- <img src=https://img.shields.io/badge/Python-red>
-- <img src=https://img.shields.io/badge/Scala-red>
-- Java (Spring Boot, Swing, AWS SDK v2)
-- Python (FastAPI, SQLAlchemy, Pandas, Matplotlib, Scrapy, Altair)
-- Scala
+- <img src=https://img.shields.io/badge/Java-Spring_Boot-red> <img src=https://img.shields.io/badge/Java-MVC-red> <img src=https://img.shields.io/badge/Java-AWS_SDK_v2-red>
+- <img src=https://img.shields.io/badge/Python-FastAPI-red> <img src=https://img.shields.io/badge/Python-SQLAlchemy-red> <img src=https://img.shields.io/badge/Python-Pandas-red> <img src=https://img.shields.io/badge/Python-Scrapy-red> <img src=https://img.shields.io/badge/Python-Altair-red> <img src=https://img.shields.io/badge/Python-MatplotLib-red>
+- <img src=https://img.shields.io/badge/Scala-Spark_RDDs-red>
+
 
 ### 🗄️ Data Management
 - Oracle SQL
