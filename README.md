@@ -13,13 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Ruth 👋
-A backend and cloud software engineer with more than 3 years of professional experience. I have excellent knowledge of backend Java development.
-In general, I've worked with monolithic, microservice and serverless architectures. 
+## Hello, I'm Ruth! 👋
 
-- 🌱 I’m currently a graduate student at Carnegie Mellon University specializing in information Systems Management
-- 
+A seasoned backend and cloud software engineer with over 3 years of industry experience, I specialize in Java backend development and thrive in crafting innovative solutions across various architectures like monolithic, microservices, and serverless structures.
 
+About Me:
+🎓 Currently pursuing a graduate degree in Information Systems Management at Carnegie Mellon University, broadening my horizons and diving deeper into the realms of technology.
+
+💡 I'm a fervent learner, always exploring the latest tech trends and actively pursuing cloud certifications to expand my skill set and stay at the forefront of innovation.
+
+🚀 Beyond academia, I've had the privilege of contributing to projects like CMU's Iris mission, exploring the stars while honing my technical prowess. Back in my undergrad days, I led as the GUI head at SAE Aero competition, showcasing my knack for creativity in engineering.
+
+💪 Outside the tech sphere, you'll find me at the gym, channeling determination and focus, or cheering passionately for F1 races, because hey, we all need a dose of adrenaline!
+
+
+## 📊 Stats
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ruthpeter2490&show_icons=true&theme=transparent"><img
@@ -37,7 +45,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
    </p>
    <p>
 
-<p> <a href="https://github.com/rpeter249" >Do check out my contributions on my School Repository!</a> </p>
+<p align='center' > <a href="https://github.com/rpeter249" >Do check out my contributions on my School Repository!</a> </p>
   
 <p align='center'>
    <a href="https://www.linkedin.com/in/ruthpeter/">
