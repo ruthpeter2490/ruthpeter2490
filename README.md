@@ -99,6 +99,21 @@ These are private repositories, feel free to reach out for project access !
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/ruthpeter2490/stream-processing-kafka-samza"><b>Ride App Stream Processing</b></a></td>
+      <td>Stream processing for a ride share app using kafka and samza</td>
+      <td><img src=https://img.shields.io/badge/Java-8A2BE2/> <img src=https://img.shields.io/badge/Terraform-8A2BE2/></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/ruthpeter2490/Iterative-Processing-With_Spark"><b>Spark Iterative processing</b></a></td>
+      <td>Implementing page rank using Scala RDDs</td>
+      <td><img src=https://img.shields.io/badge/Shell-8A2BE2/> <img src=https://img.shields.io/badge/Scala-8A2BE2/></td>
+    </tr>
+      <tr>
+      <td><a href="https://github.com/ruthpeter2490/docker-kubernetes-multicloud"><b>Multicloud deployment with Docker and Kubernetes</b></a></td>
+      <td>Multi-cloud Microservices deployment using Docker and Kubernetes </td>
+      <td><img src=https://img.shields.io/badge/Java-8A2BE2/> <img src=https://img.shields.io/badge/Dockerfile-8A2BE2/><img src=https://img.shields.io/badge/Terraform-8A2BE2/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ruthpeter2490/Jenkins-And-CI"><b>Jenkins and CI</b></a></td>
       <td>Automated deployment using Jenkins and sonarqube for Continuous Integration</td>
