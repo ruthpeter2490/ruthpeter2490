@@ -77,10 +77,10 @@ In general, I've worked with monolithic, microservice and serverless architectur
 - Ansible
 
 ### ☁️ Cloud Platforms
-- AWS (EC2, ALB, ELB, ASG, S3, ECR, EMR, ECS, EKS)
-- GCP (GKE, GCR, VertexAI, GAE)
-- Azure (Databricks, HDInsight, Azure VM, ACR, ARM, ACI, Keyvault, Functions, App Service, API Management, Redis, DevOps)
-- Kubernetes Cluster Management
+- <img src=https://img.shields.io/badge/AWS-EC2-blue> <img src=https://img.shields.io/badge/AWS-ALB_ELB-blue> <img src=https://img.shields.io/badge/AWS-ASG-blue> <img src=https://img.shields.io/badge/AWS-ECR-blue> <img src=https://img.shields.io/badge/AWS-EMR-blue> <img src=https://img.shields.io/badge/AWS-ECS-blue> <img src=https://img.shields.io/badge/AWS-EKS-blue> 
+- <img src=https://img.shields.io/badge/GCP-GKE-blue> <img src=https://img.shields.io/badge/GCP-GCR-blue> <img src=https://img.shields.io/badge/GCP-GAE-blue> <img src=https://img.shields.io/badge/GCP-VertexAI-blue>
+- <img src=https://img.shields.io/badge/Azure-Databricks-blue> <img src=https://img.shields.io/badge/Azure-HDInsight-blue> <img src=https://img.shields.io/badge/Azure-Azure_VM-blue> <img src=https://img.shields.io/badge/Azure-ACR-blue> <img src=https://img.shields.io/badge/Azure-ARM-blue> <img src=https://img.shields.io/badge/Azure-ACI-blue> <img src=https://img.shields.io/badge/Azure-KeyVault-blue> <img src=https://img.shields.io/badge/Azure-Functions-blue> <img src=https://img.shields.io/badge/Azure-App_Service-blue> <img src=https://img.shields.io/badge/Azure-API_Management-blue> <img src=https://img.shields.io/badge/Azure-Redis-blue> <img src=https://img.shields.io/badge/Azure-DevOps-blue>
+- <img src=https://img.shields.io/badge/Kubernetes-Cluster_Management-blue> 
 
 ### 🌐 Web Development
 - Spring Boot
