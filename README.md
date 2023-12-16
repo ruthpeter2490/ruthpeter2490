@@ -124,6 +124,12 @@ These are private repositories, feel free to reach out for project access !
       <td>Automated deployment using Jenkins and sonarqube for Continuous Integration</td>
       <td><img src=https://img.shields.io/badge/Shell-purple> <img src=https://img.shields.io/badge/Dockerfile-purple> <img src=https://img.shields.io/badge/groovy-purple></td>
     </tr>
+   <tr>
+      <td><a href="https://github.com/ruthpeter2490/ansible-and-continuous-deployment"><b>Ansible and Continuous Deployment</b></a></td>
+      <td>Automated deployment using Ansible for continuous deployment</td>
+      <td><img src=https://img.shields.io/badge/Shell-purple> <img src=https://img.shields.io/badge/Dockerfile-purple> <img src=https://img.shields.io/badge/groovy-purple></td>
+    </tr>
+
    
   </tbody>
 </table>
